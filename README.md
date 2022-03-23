@@ -1,18 +1,16 @@
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
-
 <p>
- <div style="display: flex; flex-direction: row;">
-<!-- GitHub Stats -->
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=HanselPalencia&show_icons=true&hide_border=true" />
-
-
-<!-- Most Used Languages -->
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanselPalencia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
- </div>
+<div class="row">
+  <div class="column">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=HanselPalencia&show_icons=true&hide_border=true" />
+  </div>
+  <div class="column">
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanselPalencia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </div>
+</div>
 </p>
-
 
 <!-- retro visitor counter -->
  <p align="center"> 
