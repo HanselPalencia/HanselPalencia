@@ -1,12 +1,8 @@
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
-<a href="https://github.com/HanselPalencia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HanselPalencia&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/HanselPalencia/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HanselPalencia&repo=convoychat" />
-</a>
+![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanselPalencia&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanselPalencia&layout=compact&theme=radical)
 
 <!-- retro visitor counter -->
  <p align="center"> 
