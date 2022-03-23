@@ -3,18 +3,20 @@
 
 
 <p>
+ <div style="display: flex; flex-direction: row;">
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanselPalencia&show_icons=true&hide_border=true" />
 
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanselPalencia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
+</div>
 
 
 <!-- retro visitor counter -->
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/HanselPalencia/count.svg" />
+ </p>
 <!--
 **HanselPalencia/HanselPalencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
