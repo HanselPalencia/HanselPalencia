@@ -1,5 +1,5 @@
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<b>⚡ Readme In Progress</b>
 
 ![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanselPalencia&show_icons=true&theme=radical&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanselPalencia&layout=compact&theme=radical)
